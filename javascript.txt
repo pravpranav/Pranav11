@@ -1,0 +1,3 @@
+javascript
+deel.createsprite(10,10,10,10);
+deel.shapeColor="blue";
